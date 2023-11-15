@@ -1,0 +1,1 @@
+const resta = (a,b)=> a-b
